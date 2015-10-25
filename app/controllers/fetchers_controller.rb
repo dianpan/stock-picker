@@ -1,7 +1,7 @@
 require 'rubygems'
 require 'yql'
 
-class FetcherController < ApplicationController
+class FetchersController < ApplicationController
   def fetch(symbol, startDate, endDate)
     yql = Yql::Client.new
     query = Yql::QueryBuilder.new 'yahoo.finance.historicaldata'
