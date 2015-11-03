@@ -35,7 +35,7 @@ Quick and dirty algorithms to identify which stocks might be high performing.
 - Multiple buy/sell metrics
 
 ### System Architecture
-![alt text](https://github.com/dianpan/stock-picker/app/assets/images/stock_picker.png "system")
+![alt text](https://raw.githubusercontent.com/dianpan/stock-picker/957d1ffa0f65b4045cd3141a04d2257a66ea11fb/app/assets/images/stock_picker.png "system")
 
 ### Component Design
 - Symbol Seeder Tool
